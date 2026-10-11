@@ -1,0 +1,83 @@
+# Lotus Sun Energy
+
+> Veteran-led (ex-servicemen) solar company based in Muzaffarpur, Bihar, India. Mainly rooftop solar for homes and housing societies, with full help on the PM Surya Ghar subsidy, net metering and EMIs; also rooftop and ground-mount solar for shops, businesses, institutions, industry and farms. Motto: "Serving the Nation, From Olive Green to Go Green".
+
+Every page below also has a clean Markdown version: add `index.md` to its URL (for example https://lotussunenergy.com/about/index.md). The full text of the whole site is in one file at https://lotussunenergy.com/llms-full.txt.
+
+## Key facts
+- Main focus: rooftop solar for individual homes (typically 1 to 10 kW) and housing societies, with a free site visit, one all-inclusive quote, and the PM Surya Ghar portal registration, DISCOM feasibility, net meter, inspection and subsidy claim handled for the customer (central subsidy up to Rs 78,000 for 3 kW or more).
+- Also: rooftop systems for shops, offices, schools and factories; ground-mount plants; turnkey EPC; installation & commissioning; pile foundations, civil works and fencing; operation & maintenance.
+- In Bihar: north Bihar (including Muzaffarpur) is served by NBPDCL and south Bihar by SBPDCL; free site visits across the state.
+- Equipment: Lotus Sun Energy does not manufacture modules or inverters; it specifies BIS-certified, ALMM-listed modules (Indian-made DCR modules for subsidy systems) and warrantied inverters.
+- Lotus Sun Energy is a new company: it does not claim past projects, clients or awards on this website.
+- Office: Pakhanaha Sriram, Muzaffarpur, Bihar 843109, India. Hours: Monday to Saturday, 9 AM to 7 PM. Free site visits across India.
+- Contact: info@lotussunenergy.com, the form at https://lotussunenergy.com/contact/ or a free quote at https://lotussunenergy.com/free-solar-quote/
+
+## For homes
+- [Rooftop Solar for Homes in India](https://lotussunenergy.com/solar-for-homes/): Home rooftop solar made simple: the right system size for your bill, up to Rs 78,000 PM Surya Ghar subsidy, easy EMIs and every approval handled for you.
+- [PM Surya Ghar Subsidy 2026 Guide](https://lotussunenergy.com/pm-surya-ghar-subsidy/): PM Surya Ghar gives homes up to Rs 78,000 for rooftop solar. Subsidy by size, housing-society support, loans, eligibility and how to apply in 2026.
+- [Rooftop Solar in Muzaffarpur & Bihar](https://lotussunenergy.com/solar-in-bihar/): Rooftop solar in Muzaffarpur and across Bihar: PM Surya Ghar subsidy, NBPDCL and SBPDCL net metering, sizes, costs and a free site visit from a local team.
+- [How Going Solar Works, Step by Step](https://lotussunenergy.com/how-it-works/): How solar makes power for your home or business, and every step of going solar with Lotus Sun Energy, from the free site visit to subsidy and switch-on.
+
+## Company
+- [About Lotus Sun Energy](https://lotussunenergy.com/about/): Lotus Sun Energy is a new, veteran-led solar company from Muzaffarpur, Bihar: honest advice, quality components and clean power for every home in India.
+- [Veteran-Led Solar Company: Olive Green to Go Green](https://lotussunenergy.com/ex-servicemen-led-msme/): Lotus Sun Energy is led by ex-servicemen: the discipline, integrity and service of the armed forces, now powering India's homes and businesses with solar.
+- [Quality & Safety Standards](https://lotussunenergy.com/quality-safety/): How Lotus Sun Energy builds solar safely and to standard: BIS and IEC certified equipment, CEA safety rules, proper earthing, testing and clean handover.
+- [Solar for Homes, Societies & Business](https://lotussunenergy.com/industries/): Solar for every kind of site in India: homes, housing societies, shops, offices, schools, hospitals, factories and farms, from Lotus Sun Energy.
+- [Contact Lotus Sun Energy](https://lotussunenergy.com/contact/): Contact Lotus Sun Energy for rooftop or ground-mount solar, subsidy help or a free site visit. Office in Muzaffarpur, Bihar, serving all of India.
+- [Get a Free Solar Quote & Site Visit](https://lotussunenergy.com/free-solar-quote/): Free, no-obligation solar quote for your home, business or land: a few quick questions, an instant savings estimate and a free site visit.
+
+## Services
+- [Rooftop Solar for Homes & Business](https://lotussunenergy.com/service-rooftop/): On-grid rooftop solar on RCC and metal-sheet roofs for homes, housing societies, shops, offices and factories across India, installed by Lotus Sun Energy.
+- [Ground-Mount Solar Power Plants in India](https://lotussunenergy.com/service-ground-mount/): Ground-mount solar plants for farms, factories and open land: design, piling, structures, installation and grid connection by Lotus Sun Energy.
+- [Own Your Solar Plant: CAPEX Solar EPC](https://lotussunenergy.com/capex-solar-epc/): Own your solar plant outright. Lotus Sun Energy designs, supplies, installs and commissions rooftop and ground-mount solar that you own from day one.
+- [Turnkey Solar EPC Company in India](https://lotussunenergy.com/service-epc/): Turnkey solar EPC from Lotus Sun Energy: engineering, procurement and construction under one roof, with one accountable team from survey to switch-on.
+- [Solar Installation & Commissioning](https://lotussunenergy.com/solar-installation-commissioning/): Solar installation and commissioning by veteran-led crews: structures, modules, cabling, earthing, testing and grid synchronisation, done right first time.
+- [Solar Pile Foundations & Piling Works](https://lotussunenergy.com/service-piling/): Solar pile foundations by Lotus Sun Energy: soil checks, pile design, augering, casting and pull-out tests, so ground-mount structures stand for 25 years.
+- [Solar Civil Works, Fencing & Drainage](https://lotussunenergy.com/service-civil/): Solar civil works by Lotus Sun Energy: foundations, cable trenches, inverter rooms, internal roads, drainage, boundary walls and chain-link fencing.
+- [Solar O&M, Cleaning & Maintenance](https://lotussunenergy.com/service-om/): Solar operation and maintenance from Lotus Sun Energy: module cleaning, inspections, inverter checks, fault response and generation reports.
+
+## Solar guides for India (updated 2026-10-11)
+- [Solar Guides for India 2026](https://lotussunenergy.com/insights/): Plain-English solar guides for India in 2026: PM Surya Ghar subsidy, net metering, GST at 5%, ALMM, batteries, rooftop vs ground-mount and maintenance.
+- [PM Surya Ghar Subsidy 2026 Guide](https://lotussunenergy.com/pm-surya-ghar-subsidy/): PM Surya Ghar gives homes up to Rs 78,000 for rooftop solar. Subsidy by size, housing-society support, loans, eligibility and how to apply in 2026.
+- [India Solar Capacity 2026: 171 GW](https://lotussunenergy.com/india-solar-capacity-2026/): India reached 171.05 GW of solar by 30 September 2026. What the growth, the rooftop boom and the 500 GW goal mean for a business planning solar.
+- [GST on Solar in India 2026: 5% Rate](https://lotussunenergy.com/gst-on-solar-india/): GST on solar modules is 5% since 22 September 2025. How the 70:30 rule puts EPC contracts near 8.9%, input tax credit and a worked example.
+- [ALMM List-II for Solar Cells 2026](https://lotussunenergy.com/almm-list-ii-solar-cells/): Since 1 June 2026, projects under MNRE's ALMM order need List-I modules made with List-II cells. Who it covers, exemptions and how to comply.
+- [Solar Import Duty in India 2026](https://lotussunenergy.com/solar-import-duty-india/): Customs duty on imported solar modules and cells in 2026: BCD at 20% plus AIDC, Budget 2026-27 changes, anti-dumping and what buyers should do.
+- [Accelerated Depreciation on Solar 2026](https://lotussunenergy.com/accelerated-depreciation-solar/): A business that owns its solar plant can claim 40% depreciation on written-down value. How it works under the Income-tax Act, 2025, with an example.
+- [CAPEX vs OPEX Solar: Which Pays?](https://lotussunenergy.com/capex-vs-opex-solar/): Own the plant (CAPEX) or pay per unit (OPEX, RESCO, PPA)? Cost, savings, depreciation, risk and contracts compared for Indian businesses in 2026.
+- [Net Metering in India 2026: Rules](https://lotussunenergy.com/net-metering-india/): Net metering, net billing and gross metering in India in 2026: the 500 kW limit, time-of-day tariffs, the draft 2026 rules and the approval steps.
+- [Green Energy Open Access India 2026](https://lotussunenergy.com/green-energy-open-access/): Green Energy Open Access lets consumers from 100 kW buy solar from off-site plants. Eligibility, charges, banking, GOAR and the ISTS waiver phase-out.
+- [PM-KUSUM Scheme 2026: Deadlines](https://lotussunenergy.com/pm-kusum-scheme/): PM-KUSUM in 2026: solar plants on farmland, solar pumps and feeder solarisation, the support on offer, the extended deadlines and the proposed 2.0.
+- [How to Choose a Solar EPC in India](https://lotussunenergy.com/choose-solar-epc-partner/): 12 questions to ask before hiring a solar EPC or installation partner in India: track record, documents, equipment, safety, approvals and warranties.
+- [Rooftop vs Ground-Mount Solar Guide](https://lotussunenergy.com/rooftop-vs-ground-mount-solar/): Rooftop or ground-mount solar? Cost, space, structure, roof safety, piling, fencing, approvals and maintenance compared, for homes, business and farms.
+- [Solar O&M and Module Cleaning Guide](https://lotussunenergy.com/solar-om-module-cleaning/): Why operation and maintenance decides a solar plant's return: module cleaning systems, inspections, thermography, earthing checks and a schedule.
+- [Solar Standards in India: BIS, CEIG](https://lotussunenergy.com/solar-quality-standards-bis-cea/): Quality and safety norms for solar plants in India in 2026: the BIS Quality Control Order, key IS/IEC standards for each part and CEIG approval.
+- [Battery Storage with Solar in India](https://lotussunenergy.com/battery-storage-with-solar/): Battery storage with solar in India: the 2-hour storage rule in tenders, VGF for BESS, ISTS waiver terms, the draft 500 kW rule and when it pays.
+- [Solar Installation & Commissioning Steps](https://lotussunenergy.com/solar-plant-commissioning-checklist/): Step by step through installing and commissioning a solar plant in India: civil works, structures, modules, cabling, earthing, tests and handover.
+
+## Reference
+- [Government Solar Schemes in India 2026](https://lotussunenergy.com/solar-schemes-india/): Solar schemes in India 2026: PM Surya Ghar subsidy, PM-KUSUM, net metering, GST at 5%, ALMM and accelerated depreciation, explained in plain English.
+- [Solar Glossary: Terms in Plain English](https://lotussunenergy.com/solar-glossary/): Plain-English definitions of solar terms: kW and kWp, net metering, DISCOM, inverter, ALMM, EPC, CAPEX vs OPEX, payback, subsidy, earthing and many more.
+- [Solar FAQs: Cost, Subsidy, EMI & Roofs](https://lotussunenergy.com/faq/): Straight answers on solar cost, the PM Surya Ghar subsidy, EMIs, roof suitability, net metering, monsoon output and maintenance, from Lotus Sun Energy.
+
+## Quick answers
+- **How much does rooftop solar cost for a home in India?** As a guide, a home rooftop system costs roughly Rs 55,000 to Rs 65,000 per kW before subsidy, depending on the roof, the structure height and the components. A typical 3 kW home system therefore costs about Rs 1.7 to 2 lakh, and the PM Surya Ghar subsidy brings Rs 78,000 of that back. Use our savings calculator for your own numbers; the exact price comes after a free site visit.
+- **How much will I save on my electricity bill?** Most homes that size the system to their usage cut their bill by 70 to 90%. Each kW of panels makes roughly 4 units a day on average in most of India (about 1,400 to 1,500 units a year), so at Rs 7 to 8 a unit a 3 kW system saves around Rs 2,500 to 3,000 a month.
+- **How long does solar take to pay for itself?** For a home with the subsidy, typically 3 to 5 years. Businesses without the subsidy usually see 3 to 6 years, depending on the tariff and how much of the power is used during the day. After that the system keeps generating for 25 years or more.
+- **What size of system do I need?** A quick rule: bills around Rs 1,000 to 2,500 a month suit 1 to 2 kW, Rs 2,500 to 4,500 suit about 3 kW, and bills above Rs 5,000 need 5 kW or more. We confirm the size from your bills, sanctioned load and roof during the site visit.
+- **What government subsidy can I get for home solar?** Under PM Surya Ghar: Muft Bijli Yojana the central subsidy is Rs 30,000 per kW for the first 2 kW and Rs 18,000 for the 3rd kW: Rs 30,000 for 1 kW, Rs 60,000 for 2 kW and Rs 78,000 for 3 kW or more. Housing societies get Rs 18,000 per kW for common facilities. Some states add their own top-up.
+- **Who is eligible for the PM Surya Ghar subsidy?** A household with its own electricity connection, a suitable roof it owns, and no earlier solar subsidy on the same connection. The system must be grid-connected with net metering and use Indian-made (DCR) modules, installed by a vendor registered on the portal.
+- **Do you handle the subsidy paperwork?** Yes. We register you on the national portal, file the DISCOM feasibility and net-metering application, arrange the inspection after installation and follow the claim until the subsidy reaches your bank account.
+- **Can I pay in EMIs?** Yes. Banks offer solar loans, and for home systems up to 3 kW the scheme provides collateral-free loans at around 7% interest. In many cases the EMI is close to the bill it replaces, so you save from the first month. We guide you through the paperwork.
+- **Do businesses get any benefit?** Businesses do not get the PM Surya Ghar subsidy, but a business that owns its plant can usually claim accelerated depreciation, and GST on solar modules is 5%. Ask your chartered accountant to confirm.
+- **Is my roof suitable for solar?** Most are. You need roughly 80 to 100 sq ft of shade-free roof per kW, facing south, east or west, without tall trees or buildings shading it between 9 AM and 4 PM. RCC and metal-sheet roofs both work; we check the strength and shade on the site visit.
+- **Will the panels damage my roof or cause leaks?** No. On RCC roofs we use raised structures on concrete or chemically anchored bases with waterproofing at each fixing; on metal sheets we use clamps or sealed fixings matched to the sheet profile. The structure is designed for the wind speed of your area.
+- **I live in a rented house or flat. Can I still go solar?** The subsidy needs a roof the applicant owns. In an apartment, the housing society can install solar for common areas (lifts, pumps, lighting) and claim the society subsidy. Talk to us and we will suggest what is possible.
+- **Do you install ground-mount solar on open land?** Yes. For farms, factories and institutions with spare land we design and build ground-mount plants, including soil checks, pile foundations, structures, fencing and the grid connection. See ground-mount solar.
+- **How long does installation take?** For a typical home, the physical installation takes 2 to 4 days. The whole process, including portal registration, DISCOM feasibility, net meter and inspection, usually takes a few weeks, depending on your DISCOM.
+
+## Optional
+- [Full text of the site](https://lotussunenergy.com/llms-full.txt): every page as Markdown in one file
+- [Guides feed](https://lotussunenergy.com/feed.xml): RSS feed of the solar guides
+- [Sitemap](https://lotussunenergy.com/sitemap.xml): every page
